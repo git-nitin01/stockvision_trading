@@ -1,0 +1,31 @@
+{
+  "name": "stockvision_redis_service",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/QuantumBits-SW/stockvision_redis_service#readme",
+  "bugs": {
+    "url": "https://github.com/QuantumBits-SW/stockvision_redis_service/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuantumBits-SW/stockvision_redis_service.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js"
+  },
+  "dependencies": {
+    "axios": "^1.8.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "redis": "^4.7.0",
+    "uuid": "^11.1.0",
+    "ws": "^8.18.1"
+  }
+}
