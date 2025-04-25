@@ -32,14 +32,14 @@ Designed to empower retail investors with data-driven trading decisions through 
 <table>
   <tr>
     <td align="center">
-      <img src="https://i.ibb.co/krDN52N/system.png" width="100%" />
+      <img src="https://i.ibb.co/krDN52N/system.png](https://github.com/git-nitin01/stockvision_trading/blob/main/assets/system.png?raw=true" width="100%" />
     </td>
 </table>
 <hr style="border: 1px dashed #999; margin: 20px 0;">
 <table style="margin: 0 auto;">
   <tr>
     <td align="center">
-      <img src="https://i.ibb.co/sJJpFj81/db.png" width="100%" />
+      <img src="https://i.ibb.co/sJJpFj81/db.png](https://github.com/git-nitin01/stockvision_trading/blob/main/assets/db.png?raw=true" width="100%" />
     </td>
 </table>
 
