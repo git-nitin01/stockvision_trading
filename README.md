@@ -26,7 +26,9 @@
 Designed to empower retail investors with data-driven trading decisions through a clean and minimalistic user interface.</h4>
 
 <h2>Preview</h2>
+
 [![Watch the video](https://img.youtube.com/vi/Y9NrHLQNhRw/0.jpg)](https://www.youtube.com/watch?v=Y9NrHLQNhRw)
+
 
 <h2>System & Database Design</h2>
 <table>
