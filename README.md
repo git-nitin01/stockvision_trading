@@ -25,8 +25,16 @@
 <h4>Real-time stock trading charts and prediction platform built on a microservices architecture.
 Designed to empower retail investors with data-driven trading decisions through a clean and minimalistic user interface.</h4>
 
-<h2>Demo</h2>
-<a href="https://www.youtube.com/watch?v=Y9NrHLQNhRw" target="_blank">Link to video</a>
+<h2>Preview</h2>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/Y9NrHLQNhRw" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+</iframe>
 
 <h2>System & Database Design</h2>
 <table>
