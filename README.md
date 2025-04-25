@@ -50,25 +50,25 @@ Designed to empower retail investors with data-driven trading decisions through 
 <table>
   <tr>
     <td align="center">
-      <img src="https://i.ibb.co/KxsKCYVD/page.png" width="500" />
+      <img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/homepage/page.png?raw=true" width="500" />
     </td>
     <td align="center" colspan="2">
-      <img src="https://i.ibb.co/JjyF8HL7/Picture1.png" width="500"/>
+      <img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/dashboard/Picture1.png?raw=true" width="500"/>
   </tr>
 </table>
 <h3>Authentication</h3>
 <table>
   <tr>
-    <td><img src="https://i.ibb.co/sJ5jck14/siginup.png" width="400"></td>
-    <td><img src="https://i.ibb.co/N2c8M1F2/signin.png" width="400"></td>
-    <td><img src="https://i.ibb.co/Y4PFLPfq/fblogin.jpg" width="400"></td>
+    <td><img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/auth/siginup.png?raw=true" width="400"></td>
+    <td><img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/auth/signin.png?raw=true" width="400"></td>
+    <td><img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/auth/fblogin.jpg?raw=true" width="400"></td>
   </tr>
 </table>
 <table>
   <tr>
-    <td><img src="https://i.ibb.co/MxDFv0Zd/googlelogin.jpg" width="400"></td>
-    <td><img src="https://i.ibb.co/TxvzNS1c/passreset.jpg" width="400"></td>
-    <td><img src="https://i.ibb.co/L46FGBv/resetmail.png" width="400"></td>
+    <td><img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/auth/googlelogin.jpeg?raw=true" width="400"></td>
+    <td><img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/auth/passreset.jpeg?raw=true" width="400"></td>
+    <td><img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/auth/resetmail.png?raw=true" width="400"></td>
   </tr>
 </table>
 <hr style="border: 1px dashed #999; margin: 20px 0;">
@@ -76,31 +76,31 @@ Designed to empower retail investors with data-driven trading decisions through 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://i.ibb.co/nM4PK104/history-candle.png" width="400" height="250" 
+      <img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/charts/history_candle.png?raw=true" width="400" height="250" 
     style="object-fit: cover;" />
     </td>
     <td align="center">
-      <img src="https://i.ibb.co/9k5wK1hx/history.png" width="400"style="object-fit: cover;"/>
+      <img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/charts/history.png?raw=true" width="400"style="object-fit: cover;"/>
     </td>
 <td align="center">
-      <img src="https://i.ibb.co/Ld8RQq4r/pred-data.png" width="350"/>
+      <img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/charts/pred_data.png?raw=true" width="350"/>
     </td>
   </tr>
 </table>
 <table>
 <tr>
     <td align="center" style="margin: 0 auto">
-      <img src="https://i.ibb.co/QFJzFYvc/pred.png" width="70%" style="margin: 0 auto "/>
+      <img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/charts/pred.png?raw=true" width="70%" style="margin: 0 auto "/>
     </td>
   </tr>
 </table>
 <table>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://i.ibb.co/1JKjM34J/order-executed-notify.png" width="500"/>
+      <img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/portfolio/order_executed_notify.png?raw=true" width="500"/>
     </td>
        <td align="center" colspan="2">
-      <img src="https://i.ibb.co/ksrDTgMf/close.jpg" width="550" style="object-fit: cover;"/>
+      <img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/charts/close.jpeg?raw=true" width="550" style="object-fit: cover;"/>
     </td>
   </tr>
 </table>
@@ -112,22 +112,22 @@ Designed to empower retail investors with data-driven trading decisions through 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://i.ibb.co/JZFGP4c/page.png" width="500" height="250" 
+      <img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/portfolio/page.png?raw=true" width="500" height="250" 
     style="object-fit: cover;" />
     </td>
     <td align="center">
-      <img src="https://i.ibb.co/NMjbdyB/orders-exe.png" width="500"style="object-fit: cover;"/>
+      <img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/portfolio/orders_exe.png?raw=true" width="500"style="object-fit: cover;"/>
     </td>
   </tr>
 </table>
 <table>
   <tr>
     <td align="center">
-      <img src="https://i.ibb.co/rfqprjTt/order-pending.png" width="500" height="250" 
+      <img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/portfolio/order_pending.png?raw=true" width="500" height="250" 
     style="object-fit: cover;" />
     </td>
     <td align="center">
-      <img src="https://i.ibb.co/6RJKXCfX/order-cancel.png" width="500"style="object-fit: cover;"/>
+      <img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/portfolio/order_cancel.png?raw=true" width="500"style="object-fit: cover;"/>
     </td>
   </tr>
 </table>
@@ -137,22 +137,22 @@ Designed to empower retail investors with data-driven trading decisions through 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://i.ibb.co/JwzHNXDV/wallet.png" width="500" height="250" 
+      <img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/wallet/wallet.png?raw=true" width="500" height="250" 
     style="object-fit: cover;" />
     </td>
     <td align="center">
-      <img src="https://i.ibb.co/N6pP8xpn/withdraw.png" width="500"style="object-fit: cover;"/>
+      <img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/wallet/withdraw.png?raw=true" width="500"style="object-fit: cover;"/>
     </td>
   </tr>
 </table>
 <table>
   <tr>
     <td align="center">
-      <img src="https://i.ibb.co/5X0pZ32G/deposit.png" width="500" height="250" 
+      <img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/wallet/deposit.png?raw=true" width="500" height="250" 
     style="object-fit: cover;" />
     </td>
     <td align="center">
-      <img src="https://i.ibb.co/rGr8KrkQ/deposit-stripe.png" width="500"style="object-fit: cover;"/>
+      <img src="https://github.com/git-nitin01/stockvision_trading/blob/main/assets/screenshots/wallet/deposit_stripe.png?raw=true" width="500"style="object-fit: cover;"/>
     </td>
   </tr>
 </table>
