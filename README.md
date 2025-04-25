@@ -39,8 +39,8 @@ Designed to empower retail investors with data-driven trading decisions through 
 </table>
 <hr style="border: 1px dashed #999; margin: 20px 0;">
 <table style="margin: 0 auto;">
-  <tr>
-    <td align="center">
+  <tr style="margin: 0 auto;">
+    <td align="center" style="margin: 0 auto;">
       <img src="https://i.ibb.co/sJJpFj81/db.png](https://github.com/git-nitin01/stockvision_trading/blob/main/assets/db.png?raw=true" width="100%" />
     </td>
 </table>
