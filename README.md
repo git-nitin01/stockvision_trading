@@ -27,7 +27,7 @@ Designed to empower retail investors with data-driven trading decisions through 
 
 <h2>Preview</h2>
 
-🔗 [Watch Demo Video](https://www.youtube.com/watch?v=Y9NrHLQNhRw)
+🔗 [Watch Demo Video](https://youtu.be/KeCdfbnBBl8)
 
 
 <h2>System & Database Design</h2>
